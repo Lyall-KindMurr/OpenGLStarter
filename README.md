@@ -12,5 +12,5 @@ the architecture has mostly been given as a boilerplate, header files often cont
 Background:
 The project has started from the original project files given to us on the DLE during one of the  starter lab sessions, as setting up a project from scratch did not prove fruitful. The classes used mostly follow the base architecture, with used shaders being placed in the shaders folder, and all textures and objects found in the media folder.
 
-Youtube rundown link:
+Youtube rundown link: https://youtu.be/vvRrBWjYByo
 
