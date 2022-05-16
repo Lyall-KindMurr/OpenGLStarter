@@ -213,8 +213,8 @@ void SceneBasic_Uniform::render()
     */
     
         //texturing
-    GLuint texID1 = Texture::loadTexture("../Coursework 1/media/brick1.jpg");
-    GLuint texID2 = Texture::loadTexture("../Coursework 1/media/hay.jpg");
+    GLuint texID1 = Texture::loadTexture("./media/brick1.jpg");
+    GLuint texID2 = Texture::loadTexture("./media/hay.jpg");
     glActiveTexture(GL_TEXTURE0);
     glBindTexture(GL_TEXTURE_2D, texID1);
     //glBindTexture(GL_TEXTURE_2D, 0); //set the texture to nothing
